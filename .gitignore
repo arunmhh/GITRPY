@@ -4,3 +4,7 @@
 *.txt
 *.exe
 *.pth
+*.pxd
+*.pyi
+*.csv
+*.c
