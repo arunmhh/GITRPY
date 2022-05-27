@@ -8,3 +8,4 @@
 *.pyi
 *.csv
 *.c
+.Rproj.user
